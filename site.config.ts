@@ -10,7 +10,6 @@ export default siteConfig({
 
   // basic site info (required)
   name: '张渊博的个人博客',
-  // domain: 'nextjs-notion-starter-kit.transitivebullsh.it',
   author: '张渊博',
 
   // open graph metadata (optional)
